@@ -1,3 +1,4 @@
+{ "url": "000a.jpg" },
 { "url": "000_johnny laser.jpg" },
 { "url": "001_dscf0120.jpg" },
 { "url": "002_dscf0121.jpg" },
@@ -8,6 +9,7 @@
 { "url": "007_dscf0128.jpg" },
 { "url": "008_dscf0131.jpg" },
 { "url": "009_dscf0132_johnny_thanks.jpg" },
+{ "url": "010_010_00_joe pedoto.jpg" }
 { "url": "011_01-jz-crossing-delaware_noborder.jpg" },
 { "url": "012_02-jz-at-gettysburg_noborder.jpg" },
 { "url": "013_03-jz-and-spirit-st-louis_sbs_noborder.jpg" },
@@ -33,4 +35,5 @@
 { "url": "033_047-10_2x1.jpg" },
 { "url": "034_048-11_2x1.jpg" },
 { "url": "035_049-13d_nino trentinella_upload_dxa.jpg" },
-{ "url": "036_050_nt_004-nino_thanks.jpg" }
+{ "url": "036_050_nt_004-nino_thanks.jpg" },
+{ "url": "037_0000a.jpg" }
