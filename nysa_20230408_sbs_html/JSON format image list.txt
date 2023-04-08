@@ -1,5 +1,6 @@
 {
 "media": [
+
 { "url": "000a.jpg" },
 { "url": "001_img_7001_paul.jpg" },
 { "url": "002_ja90.jpg" },
@@ -58,9 +59,9 @@
 { "url": "056_zman ad.jpg" },
 { "url": "057_zmaze nyc.jpg" },
 { "url": "058_lawrence_thanks.jpg" },
-{ "url": "000a.jpg" },
+{ "url": "000a.jpg" }
 ],
 "meta": {
-"url_base": "https://StereoDoro.github.io/nysa_20230408_sbs_html5/"
+"url_base": "https://StereoDoro.github.io/nysa_20230408_sbs_html/"
 }
 }
