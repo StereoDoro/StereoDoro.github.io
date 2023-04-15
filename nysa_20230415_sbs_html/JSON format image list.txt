@@ -1,0 +1,27 @@
+{
+"media": [
+
+{ "url": "0000a.jpg" },
+{ "url": "001_img_7001_db .jpg" },
+{ "url": "002_bruno zaffoni 002t.jpg" },
+{ "url": "003_harly hallikas 001t.jpg" },
+{ "url": "004_william turner 010t.jpg" },
+{ "url": "005_zaza karanashvili 001t.jpg" },
+{ "url": "006_zaza karanashvili 004t.jpg" },
+{ "url": "007_img_9000_db_thanks.jpg" },
+{ "url": "008_samuel_tressler_iv.jpg" },
+{ "url": "009_dscf7056.jpg" },
+{ "url": "010_dscf7060.jpg" },
+{ "url": "011_dscf7068.jpg" },
+{ "url": "012_dscf8532.jpg" },
+{ "url": "013_dscf7057.jpg" },
+{ "url": "014_.jpg" },
+{ "url": "014_leda_cast.jpg" },
+{ "url": "015_samuelthanks.jpg" },
+{ "url": "016 - copy.jpg" }
+
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20230415_sbs_html/"
+}
+}
