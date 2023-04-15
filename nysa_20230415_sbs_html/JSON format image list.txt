@@ -17,7 +17,7 @@
 { "url": "013_dscf7057.jpg" },
 { "url": "014_.jpg" },
 { "url": "014_leda_cast.jpg" },
-{ "url": "015_samuelthanks.jpg" },
+{ "url": "015_samuel_stressler_iv_thanks.jpg" },
 { "url": "016 - copy.jpg" }
 
 ],
