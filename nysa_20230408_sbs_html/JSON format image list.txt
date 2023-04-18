@@ -63,6 +63,6 @@
 
 ],
 "meta": {
-"url_base": "https://phila3d.github.io/nysa_20230408_sbs_html5/"
+"url_base": "https://StereoDoro.github.io/nysa_20230408_sbs_html/"
 }
 }
