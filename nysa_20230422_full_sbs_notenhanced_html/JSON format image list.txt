@@ -1,0 +1,45 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "000b_presents_lawrence.jpg" },
+{ "url": "01moewrealist.jpg" },
+{ "url": "02moerealistcu.jpg" },
+{ "url": "03moe_sstereoslidesupforauction.jpg" },
+{ "url": "03n_3dstooges_sbs.jpg" },
+{ "url": "04-1951buswname.jpg" },
+{ "url": "05-1951campspart1.jpg" },
+{ "url": "06-1951campspart2.jpg" },
+{ "url": "09-moevikinghotelgroundsnewportri.jpg" },
+{ "url": "11-newportbeachnewportri.jpg" },
+{ "url": "12-norfolk_virginian_pilot_fri__jun_29__1951.jpg" },
+{ "url": "15-virginiabeachva.jpg" },
+{ "url": "18-camplejeunetheglobe.jpg" },
+{ "url": "19-newbernnc.jpg" },
+{ "url": "20-threestooges-copy.jpg" },
+{ "url": "21-cherrypointnaval.jpg" },
+{ "url": "23-camp1951sc.jpg" },
+{ "url": "25-jacksonvillefl.jpg" },
+{ "url": "26-bayshoreroyalhoteltampafl.jpg" },
+{ "url": "28-kesslerairbase.jpg" },
+{ "url": "31-camptourmaybeftcampbell2.jpg" },
+{ "url": "32-camptourmaybeftcampbell.jpg" },
+{ "url": "33-homewardboundviaplanefromcampshows.jpg" },
+{ "url": "35-moebackhome.jpg" },
+{ "url": "40-homeinpooljoanandmichael.jpg" },
+{ "url": "43-howardcanev1951vacation.jpg" },
+{ "url": "44-thunderbirdhotelpostcard.jpg" },
+{ "url": "45-helenatthethunderbirdhotel.jpg" },
+{ "url": "46-calnevalodgelaketahoe.jpg" },
+{ "url": "48-laketahoewithpaul,johnandhelen.jpg" },
+{ "url": "50-helenatthetahoeinn.jpg" },
+{ "url": "51-motherjohnpaullaketahoe.jpg" },
+{ "url": "52-johnpaulmotherawahneehotelyosemite.jpg" },
+{ "url": "53_lawrence_thanks.jpg" },
+{ "url": "54_curtain.jpg" }
+
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20230422_full_sbs_notenhanced_html/"
+}
+}
