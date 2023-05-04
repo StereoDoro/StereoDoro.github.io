@@ -55,9 +55,9 @@
 { "url": "054_ba125.jpg" },
 { "url": "055_ba126.jpg" },
 { "url": "058_paul_thanks.jpg" },
-{ "url": "movies/lume_hollaback.mp4", "video": true },
-{ "url": "movies/lume_obj1.mp4", "video": true },
-{ "url": "movies/lume_obj2.mp4", "video": true }
+{ "url": "movies/lume_hollaback.mp4", "video": true, "preset: "hsbs" },
+{ "url": "movies/lume_obj1.mp4", "video": true, "preset: "hsbs" },
+{ "url": "movies/lume_obj2.mp4", "video": true, "preset: "hsbs" }
 
 ],
 "meta": {
