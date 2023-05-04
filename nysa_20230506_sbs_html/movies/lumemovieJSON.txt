@@ -1,9 +1,9 @@
 {
 "media": [
 
-{ "url": "lume_hollaback.mp4", "video": true },
-{ "url": "lume_obj1.mp4", "video": true },
-{ "url": "lume_obj2.mp4", "video": true }
+{ "url": "lume_hollaback.mp4", "video": true, "preset: "hsbs" },
+{ "url": "lume_obj1.mp4", "video": true, "preset: "hsbs" },
+{ "url": "lume_obj2.mp4", "video": true, "preset: "hsbs" }
 
 ],
 "meta": {
