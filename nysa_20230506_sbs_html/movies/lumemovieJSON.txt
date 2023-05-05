@@ -5,7 +5,8 @@
 { "url": "movies/lume_obj1.mp4", "video": true, "preset": "hsbs" },
 { "url": "movies/lume_obj2.mp4", "video": true, "preset": "hsbs" },
 { "url": "movies/lume_obj3.mp4", "video": true, "preset": "hsbs" },
-{ "url": "movies/lume_dungeon.mp4", "video": true, "preset": "hsbs" }
+{ "url": "movies/lume_dungeon.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_dungeon_smmff.mp4", "video": true, "preset": "hsbs" }
 
 ],
 "meta": {
