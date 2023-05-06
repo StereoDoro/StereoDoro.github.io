@@ -22,6 +22,7 @@
 { "url": "020-elvis-16-d-sbs.jpg" },
 { "url": "021-elvis-17-d-sbs.jpg" },
 { "url": "022_joe_thanks.jpg" },
+
 { "url": "023_paul.jpg" },
 { "url": "024_ba99.jpg" },
 { "url": "025_ba100.jpg" },
@@ -54,7 +55,25 @@
 { "url": "053_ba124.jpg" },
 { "url": "054_ba125.jpg" },
 { "url": "055_ba126.jpg" },
-{ "url": "058_paul_thanks.jpg" }
+{ "url": "058_paul_thanks.jpg" },
+
+{ "url": "000a.jpg" },
+
+{ "url": "LeiaAppStore_2x1.jpg" },
+{ "url": "LeiaChat_2x1.jpg" },
+{ "url": "LeiaPlayer_2x1.jpg" },
+{ "url": "LeiaTube_2x1.jpg" },
+{ "url": "LeiaViewer_2x1.jpg" },
+{ "url": "Mozaik3D_2x1.jpg" },
+{ "url": "Mozaik3D_Image1-p-1600_2x1.jpg" },
+{ "url": "Poster-00001_2x1.jpg" },
+
+{ "url": "movies/lume_hollaback.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_obj1.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_obj2.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_obj3.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_dungeon.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_dungeonsmmff.mp4", "video": true, "preset": "hsbs" }
 
 ],
 "meta": {
