@@ -73,6 +73,8 @@
 { "url": "movies/lume_obj2.mp4", "video": true, "preset": "hsbs" },
 { "url": "movies/lume_obj3.mp4", "video": true, "preset": "hsbs" },
 { "url": "movies/lume_dungeon.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_leiapix1.mp4", "video": true, "preset": "hsbs" },
+{ "url": "movies/lume_leiapix2.mp4", "video": true, "preset": "hsbs" },
 
 { "url": "000a.jpg" }
 
