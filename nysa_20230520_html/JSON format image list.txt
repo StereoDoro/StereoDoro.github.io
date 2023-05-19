@@ -1,5 +1,5 @@
 {
-"media:"
+"media":
 [
 
 { "url": "0000_a.jpg" },
