@@ -1,3 +1,6 @@
+{
+"media":
+[
 { "url": "00_01_000_010_00_joe pedoto.jpg" },
 { "url": "0_02_001_02-tina-turner_2x1.jpg" },
 { "url": "0_03_002_03-tina-turner_2x1.jpg" },
@@ -126,3 +129,8 @@
 { "url": "3_71_nsa_buffalo_ny_2023_074.jpg" },
 { "url": "3_72_nsa_buffalo_ny_2023_076.jpg" },
 { "url": "3_73_dorothee_thanks.jpg" }
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20230909_sbs_html_2/"
+}
+}
