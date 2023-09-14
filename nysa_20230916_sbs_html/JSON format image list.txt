@@ -1,0 +1,70 @@
+{
+"media":
+[
+
+{ "url": "0000_a.jpg" },
+
+{ "url": "000_joe pedoto.jpg" },
+{ "url": "001.jpg" },
+{ "url": "002.jpg" },
+{ "url": "003.jpg" },
+{ "url": "004.jpg" },
+{ "url": "005.jpg" },
+{ "url": "006.jpg" },
+{ "url": "007.jpg" },
+{ "url": "008.jpg" },
+{ "url": "009.jpg" },
+{ "url": "010.jpg" },
+{ "url": "011.jpg" },
+{ "url": "012.jpg" },
+{ "url": "013.jpg" },
+{ "url": "014.jpg" },
+{ "url": "015.jpg" },
+{ "url": "016.jpg" },
+{ "url": "017.jpg" },
+{ "url": "018.jpg" },
+{ "url": "019.jpg" },
+{ "url": "020.jpg" },
+{ "url": "021.jpg" },
+{ "url": "022.jpg" },
+{ "url": "023.jpg" },
+{ "url": "024.jpg" },
+{ "url": "025.jpg" },
+{ "url": "026.jpg" },
+{ "url": "027.jpg" },
+{ "url": "028.jpg" },
+{ "url": "029.jpg" },
+{ "url": "030_joe_thanks.jpg" },
+
+{ "url": "031_paul.jpg" },
+{ "url": "201_la108.jpg" },
+{ "url": "202_la109.jpg" },
+{ "url": "203_la109b.jpg" },
+{ "url": "204_la110b.jpg" },
+{ "url": "205_la110c.jpg" },
+{ "url": "206_la110d.jpg" },
+{ "url": "207_la110e.jpg" },
+{ "url": "208_la111.jpg" },
+{ "url": "209_la112.jpg" },
+{ "url": "210_la112a.jpg" },
+{ "url": "211_la112b.jpg" },
+{ "url": "212_la113.jpg" },
+{ "url": "213_la114.jpg" },
+{ "url": "214_la131.jpg" },
+{ "url": "215_la133.jpg" },
+{ "url": "216_la133a_.jpg" },
+{ "url": "217_la133b.jpg" },
+{ "url": "218_la134.jpg" },
+{ "url": "219_la135.jpg" },
+{ "url": "220_la135b.jpg" },
+{ "url": "221_la137.jpg" },
+{ "url": "222_la137b.jpg" },
+{ "url": "223_paul_thanks.jpg" },
+
+{ "url": "224.jpg" }
+
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20230916_sbs_html/"
+}
+}
