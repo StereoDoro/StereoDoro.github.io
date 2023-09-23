@@ -64,7 +64,7 @@
 { "url": "135_paul_thanks.jpg" },
 { "url": "999.jpg" },
 
-{ "url": "300_JasonAltice.jpg" },
+{ "url": "300_JasonAltice.JPG" },
 { "url": "301_BlackHole.jpg" },
 { "url": "302_DukesOfHazzard.jpg" },
 { "url": "303_Flinstones.jpg" },
