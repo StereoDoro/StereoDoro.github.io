@@ -1,0 +1,68 @@
+{
+"media":
+[
+
+{ "url": "0000_a.jpg" },
+{ "url": "100_paul_presents.jpg" },
+{ "url": "101_fh100.jpg" },
+{ "url": "102_fh101.jpg" },
+{ "url": "103_fh101b.jpg" },
+{ "url": "104_fh101c.jpg" },
+{ "url": "105_fh102.jpg" },
+{ "url": "106_fh103.jpg" },
+{ "url": "107_fh104.jpg" },
+{ "url": "108_fh106.jpg" },
+{ "url": "109_fh107.jpg" },
+{ "url": "110_fh108.jpg" },
+{ "url": "111_fh109.jpg" },
+{ "url": "112_fh110.jpg" },
+{ "url": "113_fh111.jpg" },
+{ "url": "114_fh112.jpg" },
+{ "url": "115_fh113.jpg" },
+{ "url": "116_fh114.jpg" },
+{ "url": "117_fh115.jpg" },
+{ "url": "118_fh116.jpg" },
+{ "url": "119_fh117.jpg" },
+{ "url": "120_fh118.jpg" },
+{ "url": "121_fh119.jpg" },
+{ "url": "122_fh120.jpg" },
+{ "url": "123_fh121.jpg" },
+{ "url": "124_fh122.jpg" },
+{ "url": "125_fh123.jpg" },
+{ "url": "126_fh124.jpg" },
+{ "url": "127_fh125.jpg" },
+{ "url": "128_fh126.jpg" },
+{ "url": "129_fh126b.jpg" },
+{ "url": "130_fh127.jpg" },
+{ "url": "131_fh128.jpg" },
+{ "url": "132_fh130.jpg" },
+{ "url": "133_fh131.jpg" },
+{ "url": "134_fh132.jpg" },
+{ "url": "135_fh133.jpg" },
+{ "url": "136_fh134.jpg" },
+{ "url": "138_paul_thanks.jpg" },
+
+
+{ "url": "200_joe pedoto.jpg" },
+{ "url": "201_01-dickinson-collection.jpg" },
+{ "url": "202_02-dickinson-collection.jpg" },
+{ "url": "203_03-dickinson-collection.jpg" },
+{ "url": "204_04-dickinson-collection.jpg" },
+{ "url": "205_05-dickinson-collection.jpg" },
+{ "url": "206_06-dickinson-collection.jpg" },
+{ "url": "207_07-dickinson-collection.jpg" },
+{ "url": "208_08-dickinson-collection.jpg" },
+{ "url": "209_09-dickinson-collection.jpg" },
+{ "url": "210_10-dickinson-collection.jpg" },
+{ "url": "211_11-dickinson-collection.jpg" },
+{ "url": "212_12-dickinson-collection.jpg" },
+{ "url": "213_13-dickinson-collection.jpg" },
+{ "url": "214_joe_thanks.jpg" },
+
+{ "url": "999.jpg" }
+
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20233023_sbs_html/"
+}
+}
