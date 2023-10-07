@@ -83,6 +83,19 @@
 { "url": "234_034_mp-05r_2x1.jpg" },
 { "url": "235_joe_thanks.jpg" },
 
+{ "url": "300_johnny laser.jpg" },
+{ "url": "301_dscf0370.jpg" },
+{ "url": "302_dscf0371.jpg" },
+{ "url": "303_dscf0376.jpg" },
+{ "url": "304_dscf0378.jpg" },
+{ "url": "305_dscf0382.jpg" },
+{ "url": "306_dscf0385.jpg" },
+{ "url": "307_dscf0388.jpg" },
+{ "url": "308_dscf0396.jpg" },
+{ "url": "309_dscf0397-4.jpg" },
+{ "url": "310_dscf0398.jpg" },
+{ "url": "311_ohnny_thanks.jpg" },
+
 { "url": "999.jpg" }
 
 ],
