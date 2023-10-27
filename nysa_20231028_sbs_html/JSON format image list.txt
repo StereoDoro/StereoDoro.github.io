@@ -52,7 +52,6 @@
 { "url": "205_greg_p_pumpkinpatch.jpg" },
 { "url": "206_greg_p_smoke.jpg" },
 { "url": "207_greg_p_the clown.jpg" },
-{ "url": "208_greg_hithere.jpg" },
 { "url": "209_steven.jpg" },
 { "url": "210_john_nycpumpkin.jpg" },
 { "url": "211_harold.jpg" },
