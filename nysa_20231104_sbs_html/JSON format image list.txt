@@ -2,8 +2,6 @@
 "media":
 [
 
-
-
 { "url": "0000_a.jpg" },
 { "url": "000_joe pedoto.jpg" },
 { "url": "001_18-rocky-horror_2x1.jpg" },
