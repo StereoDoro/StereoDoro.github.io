@@ -1,0 +1,34 @@
+{
+"media":
+[
+
+{ "url": "0000_a.jpg" },
+{ "url": "000_joe pedoto.jpg" },
+{ "url": "001_01-flash-gordon-1936_2x1.jpg" },
+{ "url": "002_21-flash-gordon-1936_2x1.jpg" },
+{ "url": "003_08-flash-gordon-1936_2x1.jpg" },
+{ "url": "004_11-flash-gordon-1936_2x1.jpg" },
+{ "url": "005_12-flash-gordon-1936_2x1.jpg" },
+{ "url": "006_10-flash-gordon-1936_2x1.jpg" },
+{ "url": "007_15-flash-gordon-1936_2x1.jpg" },
+{ "url": "008_18-flash-gordon-1936_2x1.jpg" },
+{ "url": "009_07-flash-gordon-1936_2x1.jpg" },
+{ "url": "010_02-flash-gordon-1936_2x1.jpg" },
+{ "url": "011_03-flash-gordon-1936_2x1.jpg" },
+{ "url": "012_23-flash-gordon-1936_2x1.jpg" },
+{ "url": "013_04-flash-gordon-1936_2x1.jpg" },
+{ "url": "014_14-flash-gordon-1936_2x1.jpg" },
+{ "url": "015_19-flash-gordon-1936_2x1.jpg" },
+{ "url": "016_24-flash-gordon-1936_2x1.jpg" },
+{ "url": "027_joe_thanks.jpg" },
+{ "url": "100_captionthis_fsbs.jpg" },
+{ "url": "101_donottouch.jpg" },
+{ "url": "102_largeformat.jpg" },
+{ "url": "103_jim_thanks_fsbs.jpg" },
+{ "url": "999.jpg" }
+
+],
+"meta": {
+"url_base": "https://StereoDoro.github.io/nysa_20231111_sbs_html/"
+}
+}
