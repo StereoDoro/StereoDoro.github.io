@@ -57,6 +57,18 @@
 { "url": "311_pinklemonade_fake.jpg" },
 { "url": "313_the-joyners-in-3d-sbs.jpg" },
 { "url": "314_crossover3dspecial_ana.jpg" },
+
+{ "url": "315_madman_001_para.jpg" },
+{ "url": "316_madman_002_para.jpg" },
+{ "url": "317_madman_003_para.jpg" },
+{ "url": "318_madman_004_para.jpg" },
+{ "url": "319a_madman_005_para.jpg" },
+{ "url": "319b_madman_006_para.jpg" },
+{ "url": "319c_madman_007_para.jpg" },
+{ "url": "319d_madman_008_para.jpg" },
+{ "url": "319e_madman_009_para.jpg" },
+{ "url": "319f_madman_010_para.jpg" },
+
 { "url": "320_thankschris.jpg" },
 { "url": "999.jpg" }
 
