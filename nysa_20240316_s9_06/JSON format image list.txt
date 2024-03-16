@@ -1,6 +1,7 @@
 {
 "media": [
 
+
 { "url": "0000_a.jpg" },
 { "url": "100_paul_presents.jpg" },
 { "url": "101_d100_2024.jpg" },
@@ -55,6 +56,28 @@
 { "url": "220_13 prince_sbs.jpg" },
 { "url": "221_11 prince_sbs.jpg" },
 { "url": "222_thanksjoe.jpg" },
+{ "url": "301a_stevenpinker.jpg" },
+{ "url": "301b_another purple hibiscus convenstional_2024.jpg" },
+{ "url": "302_another stereo white yellow purple iris_2024.jpg" },
+{ "url": "303_bee on thistle_2024.jpg" },
+{ "url": "304_blooming thistle hyperstereo_2024.jpg" },
+{ "url": "305_closeup purple stamens_2024.jpg" },
+{ "url": "306_crazy bottle brush_2024.jpg" },
+{ "url": "307_head-on hummingbird_2024.jpg" },
+{ "url": "308_iris closeup_2024.jpg" },
+{ "url": "309_jimson weed with purple throat_2024.jpg" },
+{ "url": "310_mexican sage stereo closeup_2024.jpg" },
+{ "url": "311_stereo deep orange buds_2024.jpg" },
+{ "url": "312_stereo flowers inverted lily pair_2024.jpg" },
+{ "url": "313_stereo flowers white stargazer pair_2024.jpg" },
+{ "url": "314_stereo flowers04 pair_2024.jpg" },
+{ "url": "315_stereo flowers06 pair_2024.jpg" },
+{ "url": "316_stereo furled california poppy_2024.jpg" },
+{ "url": "317_stereo orange flower_2024.jpg" },
+{ "url": "318_stereo pale blue flower_2024.jpg" },
+{ "url": "319_thistle bud_2024.jpg" },
+{ "url": "320_tiny drupes_2024.jpg" },
+{ "url": "325_thankssteven.jpg" },
 { "url": "999_curtain.jpg" }
 
 ],
