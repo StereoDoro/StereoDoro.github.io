@@ -97,6 +97,6 @@
 
 ],
 "meta": {
-"url_base": "https://StereoDoro.github.io/nysa_20240914_s10_1/"
+"url_base":"https://StereoDoro.github.io/nysa_20240914_s10_01/"
 }
 }
