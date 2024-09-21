@@ -61,6 +61,13 @@
 { "url": "231.jpg" },
 { "url": "232.jpg" },
 { "url": "233_paul_thanks.jpg" },
+{ "url": "300-bloomberg_fsbs.jpg" },
+{ "url": "301-hst-title-robert bloomberg.jpg" },
+{ "url": "302-hst-rubiks_cubist-robert bloomberg.jpg" },
+{ "url": "303-hst-sterios_robert bloomberg.jpeg" },
+{ "url": "304-hst-jetstream 2000-robert bloomberg.jpeg" },
+{ "url": "305-hst-set.jpg" },
+{ "url": "399-thanksbloomberg_fsbs.jpg" },
 { "url": "400-curtain.jpg" }
 
 ],
